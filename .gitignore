@@ -15,3 +15,6 @@ doc/*.txt
 
 #忽略 doc/ 目录及所有子目录下的 .pdf 文件
 doc/**/*.pdf
+
+# 忽略 simplegit-progit 文件夹
+simplegit-progit/
