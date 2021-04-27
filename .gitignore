@@ -18,6 +18,3 @@ doc/**/*.pdf
 
 # 忽略 simplegit-progit 文件夹
 simplegit-progit/
-
-# 忽略 ticgit 文件夹
-ticgit/
